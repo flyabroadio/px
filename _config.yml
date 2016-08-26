@@ -16,15 +16,15 @@ google_analytics_id: ''
 navigation: 2
 
 # URL to source code, used in _includes/footer.html
-codeurl: 'http://flyabroad.hk'
+codeurl: 'http://flyabroad.io'
 
 # Default categories (in order) to appear in the navigation
 sections: [
     ['tools', '工具'],
     ['method', '方法'],
-    ['salary', '薪酬'],
-    ['system', '制度'],
-    ['post', '博客']
+    ['ref', '参考'],
+    ['doc', '文档'],
+    ['post', 'Posts']
 ]
 
 # Keep as an empty string if served up at the root. If served up at a specific
