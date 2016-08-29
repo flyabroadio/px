@@ -7,6 +7,7 @@ title: "飞出国培训"
 
 飞出国团队工作中用到的工具和方法。
 
+- [markdown](tools/markdown.html)
 - [github](tools/github.html)
 - [grav](tools/grav.html)
 - [bitbucket](tools/bitbucket.html)
