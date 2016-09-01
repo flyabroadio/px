@@ -209,16 +209,14 @@ Experiment for a moment, clicking back and forth between the **SSH** and the **H
 <tr>
 <th>SSH URL format</th>
 <td>
- git@bitbucket.org :< accountname>/<reponame>.git<br>
-
+git@bitbucket.org :< accountname>/<reponame>.git<br>
 or<br>
-
 ssh://git@bitbucket.org /< accountname>/<reponame>.git 
 </td>
 </tr>
 <tr>
 <th>HTTPS URL format</th>
-<td>https://@[bitbucket.org/_/](http://bitbucket.org/).git</td>
+<td>https://<accountname>@bitbucket.org/< accountname>/<reponame>.git</td>
 </tr>
 </table>
 
