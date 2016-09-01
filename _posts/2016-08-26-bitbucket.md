@@ -206,7 +206,7 @@ The URL you use for a repo depends on which protocol you are using, HTTPS or SSH
 Experiment for a moment, clicking back and forth between the **SSH** and the **HTTPS** protocol links to see how the URLs differ. The table below shows the format based on protocol.
 
 | SSH URL format | git@bitbucket.org :< accountname>/<reponame>.git<br> or<br> ssh://git@bitbucket.org /< accountname>/<reponame>.git</reponame></reponame> |
-| HTTPS URL format | https://@[bitbucket.org/_/](http://bitbucket.org/).git |
+| HTTPS URL format | https://<accountname>@bitbucket.org/< accountname>/<reponame>.git |
 
 To make the change, go to a terminal on your local system and navigate to your repository locally. Then, do the following:
 
